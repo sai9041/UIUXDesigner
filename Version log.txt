@@ -1,0 +1,22 @@
+
+Jan-2022
+
+Setup (Manage Branches, Courses & Batches)
+Alumni connect​
+
+
+April-2022
+
+​Alumni Connect(As per the feedback)​​
+Campus Hiring(As per the feedback)​
+
+Feb17th - 2023
+Changed lable names to
+a.	Rename the following buttons to
+i.	Lesson to Chapter
+ii.	Section to Lesson
+b.	Replace the + button in “Add Lesson” screen to “Add Topic”
+
+July 12th 2023
+
+
